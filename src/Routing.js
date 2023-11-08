@@ -5,7 +5,7 @@ const Routing =()=>{
     return(
         <div>
             <Button
-            name="hemalatha Reddy"
+            name="srihitha bhardwaj"
             cl="btech"
             value="value"
             />
